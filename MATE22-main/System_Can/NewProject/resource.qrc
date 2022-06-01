@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background.jpg</file>
+        <file>1645810128398.png</file>
+        <file>Croco_logo_white.png</file>
+        <file>Configuration.txt</file>
+        <file>Caiman Logo.png</file>
+    </qresource>
+</RCC>
